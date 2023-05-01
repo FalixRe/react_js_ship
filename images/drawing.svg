@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="500"
+   height="500"
+   viewBox="0 0 500 500"
+   version="1.1"
+   id="svg5"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <pattern
+       xlink:href="#pattern8537"
+       id="pattern11188"
+       patternTransform="translate(-159.13066,-122.47181)" />
+    <pattern
+       xlink:href="#pattern8537-3"
+       id="pattern10752"
+       patternTransform="translate(-382.47179,-383.73589)" />
+    <linearGradient
+       id="linearGradient1164">
+      <stop
+         style="stop-color:#dedef3;stop-opacity:1;"
+         offset="0.00145985"
+         id="stop1160" />
+      <stop
+         style="stop-color:#fbfbfe;stop-opacity:1;"
+         offset="1"
+         id="stop1162" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient1164"
+       id="linearGradient1166"
+       x1="60.537159"
+       y1="76.842056"
+       x2="70.06926"
+       y2="62.293076"
+       gradientUnits="userSpaceOnUse" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="20"
+       height="20"
+       patternTransform="translate(-125,-125)"
+       id="pattern8537">
+      <circle
+         style="fill:#f6b126;fill-opacity:1;stroke:#000000;stroke-width:0.89151;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+         id="path1532"
+         cx="10"
+         cy="10"
+         r="9.554245" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="20"
+       height="20"
+       patternTransform="translate(-125,-125)"
+       id="pattern8537-3">
+      <circle
+         style="fill:#f6b126;fill-opacity:1;stroke:#000000;stroke-width:0.89151;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+         id="path1532-2"
+         cx="10"
+         cy="10"
+         r="9.554245" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="20"
+       height="20"
+       patternTransform="translate(-125,-125)"
+       id="pattern8537-3-2">
+      <circle
+         style="fill:#f6b126;fill-opacity:1;stroke:#000000;stroke-width:0.89151;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+         id="path1532-2-6"
+         cx="10"
+         cy="10"
+         r="9.554245" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="248.90356"
+       height="248.90355"
+       patternTransform="translate(-496.92358,-498.18768)"
+       id="pattern11200">
+      <g
+         id="g11198"
+         transform="translate(496.92358,498.18768)">
+        <rect
+           style="fill:#2691f6;fill-opacity:1;stroke:none;stroke-width:1.09644;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect10754"
+           width="248.90356"
+           height="248.90355"
+           x="-496.92358"
+           y="-498.18768" />
+        <rect
+           style="fill:url(#pattern10752);stroke:none"
+           width="20"
+           height="20"
+           x="-382.4718"
+           y="-383.7359"
+           id="rect8540-2" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+           d="m -400.71931,-390.60652 c -11.37688,13.90509 -66.99723,1.2641 -66.99723,1.2641"
+           id="path10956" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+           d="m -293.27091,-314.76059 c -27.81017,-12.64099 -53.09215,5.05639 -53.09215,5.05639"
+           id="path10958" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+           d="m -264.19664,-388.07832 c -18.96148,11.37689 -40.45116,-1.2641 -40.45116,-1.2641"
+           id="path10960" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+           d="m -343.83486,-345.09896 c -13.90509,12.64099 -42.97936,-5.0564 -42.97936,-5.0564"
+           id="path10962" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+           d="m -319.81699,-444.96276 c -10.11279,-36.65887 -26.54607,-2.5282 -26.54607,-2.5282"
+           id="path10964" />
+      </g>
+    </pattern>
+  </defs>
+  <g
+     id="layer4">
+    <rect
+       style="fill:url(#pattern11200);fill-opacity:1.0;stroke:url(#pattern8537);stroke-width:1.30757;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.75369459"
+       id="rect8532"
+       width="498.69241"
+       height="498.69244"
+       x="0.65378243"
+       y="0.65378243" />
+  </g>
+  <g
+     id="layer1">
+    <path
+       style="fill:url(#linearGradient1166);fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 250,200 c 21.21283,20.59867 31.72705,42.31526 31.61458,100 -22.61131,7.09018 -31.43124,7.09018 -56.61458,0 -0.33446,-58.24413 5.74211,-80.01549 25,-100 z"
+       id="path310" />
+  </g>
+  <rect
+     style="fill:url(#pattern11188);stroke:none"
+     width="20"
+     height="20"
+     x="-159.13066"
+     y="-122.47181"
+     id="rect8540" />
+  <g
+     id="layer5" />
+  <g
+     id="layer3">
+    <rect
+       style="stroke:none;fill:url(#pattern11200)"
+       width="248.90356"
+       height="248.90355"
+       x="-496.92358"
+       y="-498.18768"
+       id="rect11210" />
+  </g>
+  <g
+     id="layer2">
+    <rect
+       style="fill:#f4f4fb;fill-opacity:1;stroke:#000000;stroke-width:0.780054;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1367"
+       width="9.219943"
+       height="19.219946"
+       x="250.39003"
+       y="300.39001" />
+  </g>
+</svg>
