@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+@media (orientation: landscape) {
+  #shipAplet {
+    height: 100vh
+  }
+}
+
+@media (orientation: portrait) {
+  #shipAplet {
+    width: 100vw
+  }
+}
